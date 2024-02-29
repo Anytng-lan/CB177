@@ -15,3 +15,10 @@ Flow Diagram:
 ![CB177Flow](https://github.com/Anytng-lan/CB177/assets/145493178/f3fcfb94-991e-48e1-8207-2187f7447ecf)
 
 
+Instructions:
+
+1. Open app.py.
+2. Run the python script.
+3. Select the link address named "Running On".
+4. Interact with the ChatBot on the webpage using the searchbox.
+5. Enter any query related to law.
